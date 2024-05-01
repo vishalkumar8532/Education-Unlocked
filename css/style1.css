@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url('../image/bg1.jpeg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 0px 80px;
+    font-family: Montserrat;
+  }
+
+.text{
+  width: 700px;
+  margin-top: 220px;
+  margin-left: 80px;
+  float: left;
+
+}
+.text h1{
+  padding-bottom: 13px;
+  margin-bottom: 0;
+  font-size: 4rem;
+  line-height: 45px;
+  background: -webkit-linear-gradient(#405A81, #5693CC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.text span{
+  color: #4e6a82;
+}
+
+.text p{
+  
+  font-size: 2rem;
+  color: #4e6a82;
+}
